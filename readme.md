@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **go, arduino**
 
-- 👨‍💻 All of my projects are available at [visualsource.us](visualsource.us)
+<!--- 👨‍💻 All of my projects are available at [visualsource.us](visualsource.us)-->
 
 - 📫 How to reach me **collin_blosser@yahoo.com**
 
-- 📄 Know about my experiences [Resume](https://visualsource.us/resume/1-2024-b/Resume%20-%20Collin%20Blosser.pdf)
+<!--- 📄 Know about my experiences [Resume](https://visualsource.us/resume/1-2024-b/Resume%20-%20Collin%20Blosser.pdf)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
