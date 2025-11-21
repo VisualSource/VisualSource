@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visualsource&label=Profile%20views&color=0e75b6&style=flat" alt="visualsource" /> </p>
 
-- 🌱 I’m currently learning **go, espressif, expo**
+- 🌱 I’m currently learning **go, c#, babylonjs**
 
 <!--- 👨‍💻 All of my projects are available at [visualsource.us](visualsource.us)-->
 
